@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+smartspend.db
+smartspend.db-shm
+smartspend.db-wal
+.env
+appsettings.Development.json
